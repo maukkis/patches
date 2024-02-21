@@ -1,4 +1,4 @@
-# LineageOS 19.1/Android 12.1 patches for Exynos 8890 support
+# PixelExperience/Android 12.1 patches for Exynos 8890 support
 Just copy them to coresponding folder and git apply them (or git am --signoff < path/to/file.patch)
 
 frameworks/base patch is there because some services are too spamy due to bug google introduced in aosp
